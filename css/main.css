@@ -129,8 +129,10 @@ body {
   color: white;
 }
 .section__text {
-  margin-left: 61px;
-  margin-top: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
 }
 
 .section__text h1 {
